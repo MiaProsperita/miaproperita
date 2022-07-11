@@ -1,7 +1,7 @@
-# ProsperitacWeb
+# Prosperita Web
 
-Repositorio decla Pagina Web
+Repositorio de la Página Web
 
 ## Proyectos
 
--[Pagina Web]{https://miaprosperita.github.io/miaprosperita/prosperitaweb}
+-[Página Web](https://miaprosperita.github.io/miaprosperita/prosperitaweb)
